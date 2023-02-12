@@ -9,7 +9,7 @@ As a computer science student, I am a skilled programmer with a focus on Python 
 <img alt="Java" width="110px" style="margin: 160px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img alt="Java" width="110px" style="margin: 160px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img alt="Java" width="110px" style="margin: 160px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-<br>
+</div>
                                         
 
 <!-- - 🔭 I’m currently working on 
