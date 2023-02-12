@@ -1,7 +1,8 @@
+# Kevin Kiyo
 ### Hi there 👋
 
 <!--
-**mzukiyo/mzukiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mzukiyo/mzukiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Yay time
 
 Here are some ideas to get you started:
 
