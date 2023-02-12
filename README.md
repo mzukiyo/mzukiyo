@@ -5,10 +5,10 @@ As a computer science student, I am a skilled programmer with a focus on Python 
 ## Languages & Technologies 🧠
 <div align="left">
 <img alt="Java" width="110px" style="margin: 160px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img alt="Java" width="110px" style="padding: 160px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img alt="Java" width="110px" style="padding: 160px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img alt="Java" width="110px" style="padding: 160px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img alt="Java" width="110px" style="padding: 160px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+<img alt="Java" width="110px" style="margin: 160px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img alt="Java" width="110px" style="margin: 160px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img alt="Java" width="110px" style="margin: 160px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img alt="Java" width="110px" style="margin: 160px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
 <br>
                                         
 
